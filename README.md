@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+KELOMPOK 1
+1. Shafwan Awaludin (20230801523)
+2. Muhammad Raihan Ilham (20230801299)
+3. Andri Agustian (20230801447)
+4. Epsilona Katiga Capricorna (20230801345)
+5. Bintang Aditya (20230801180)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
